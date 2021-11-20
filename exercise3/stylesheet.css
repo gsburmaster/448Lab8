@@ -1,0 +1,43 @@
+title
+{
+    text-align:center;
+}
+body
+{
+    text-align:center;
+    background-color:aquamarine;
+    font-size:22px;
+    background-image: url(img2.png); background-size: 100%;
+ background-repeat: no-repeat;
+
+}
+p
+{
+    border-style: solid;
+    background-color: white;
+    
+}
+#profilepic
+{
+    height:30%;
+    width:30%;
+}
+ul
+{
+    margin:auto;
+    width:25%;
+    background-color: aquamarine;
+}
+a
+{
+    color:black;
+
+}
+a:hover
+{
+    color:red;
+}
+h3.titleclass
+{
+    color:red;
+}

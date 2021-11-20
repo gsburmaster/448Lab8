@@ -1,0 +1,43 @@
+title
+{
+    text-align:center;
+}
+
+body
+{
+    text-align:center;
+    background-color:aquamarine;
+    font-size:22px;
+    background-image: url(img.jpg); background-size: 100%;
+ background-repeat: no-repeat;
+
+}
+p
+{
+    border-style: solid;
+    background-color: white;
+    
+}
+ul
+{
+    margin:auto;
+    width:25%;
+
+}
+a
+{
+    color:black;
+
+}
+a:hover
+{
+    color:red;
+}
+h3.titleclass
+{
+    color:black;
+}
+h1
+{
+    font-size:88px;
+}
